@@ -47,3 +47,7 @@ To share what I learn and inspire other makers, I run **[NN DIY SPIRIT](https://
 - 📺 **YouTube:** [@nndiyspirit](https://youtube.com/@nndiyspirit)
 
 ---
+
+<div align="center">
+  <img src="./assets/marvel-outro.svg" alt="Marvel Post-Credit Outro" width="750" />
+</div>
